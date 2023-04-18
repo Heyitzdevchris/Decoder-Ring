@@ -1,6 +1,6 @@
 # Project: Decoder Ring
 
-This is a project for the software engineering course for Thinkful.
+This is a project for the software engineering course for Thinkful's Bootcamp.
 
 ---
 
